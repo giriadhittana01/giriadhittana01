@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("New Feature")
 	greeting("Giri Putra Adhittana")
 	fmt.Println("Add feature D")
+	fmt.Println("Add feature E")
+	fmt.Println("Add feature F")
 }
