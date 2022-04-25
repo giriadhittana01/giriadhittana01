@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("Add feature D boba")
 	fmt.Println("Add feature E hello")
 	fmt.Println("Add feature F hello")
+	fmt.Println("Add feature G hello")
 }
