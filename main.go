@@ -15,4 +15,5 @@ func main() {
 	fmt.Println("Add feature G hello")
 	fmt.Println("Add feature master hello")
 	fmt.Println("Add feature master panda")
+	fmt.Println("Add feature master bear")
 }
