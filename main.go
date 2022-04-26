@@ -9,5 +9,5 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("New Feature")
 	greeting("Giri Putra Adhittana")
-	fmt.Println("A")
+	fmt.Println("New Feature B hello")
 }
